@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true and wonderful relation of the dreadful fighting and groans that were heard and seen in the ayr on the fifteenth of this instant January, in Carmarthen, in South-Wales, by Mr. Henry Lewys, and his whole family; and by many hundreds more the night following. The truth of this relation will be attested by me, William Sanders, lodging at one Mr. Jones his house, in Princes-Street, near Clare-Market; and other credible witnesses, if need require.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63460</idno>
+            <idno type="STC">Wing T2588</idno>
+            <idno type="STC">ESTC R219374</idno>
+            <idno type="EEBO-CITATION">99830852</idno>
+            <idno type="PROQUEST">99830852</idno>
+            <idno type="VID">35306</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63460)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35306)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2083:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true and wonderful relation of the dreadful fighting and groans that were heard and seen in the ayr on the fifteenth of this instant January, in Carmarthen, in South-Wales, by Mr. Henry Lewys, and his whole family; and by many hundreds more the night following. The truth of this relation will be attested by me, William Sanders, lodging at one Mr. Jones his house, in Princes-Street, near Clare-Market; and other credible witnesses, if need require.</title>
+                  <author>Sanders, William, fl. 1681.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.T. and J.C. in Duck-Lane,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lewys, Henry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35306:1" rendition="simple:additions"/>
+            <p>The True and Wonderful Relation OF THE DREADFUL FIGHTING And Groans that were Heard and Seen IN THE AYR, On the Fifteenth of this Inſtant <hi>January,</hi> in <hi>Carmarthen,</hi> in <hi>South-Wales,</hi> BY Mr. Henry Lewys, And his whole Family; And by many hundreds more the Night following.</p>
+            <p>
+               <hi>The Truth of this Relation will be Atteſted by Me,</hi> William Sanders, <hi>Lodging at one Mr.</hi> Jones <hi>his Houſe, in</hi> Princes-Street, <hi>near</hi> Clare-Market; <hi>And o<g ref="char:EOLhyphen"/>ther credible Witneſſes, if need require.</hi>
+            </p>
+            <p>Printed for <hi>W.T.</hi> and <hi>J.C.</hi> in <hi>Duck-Lane,</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:35306:2"/>
+            <pb n="1" facs="tcp:35306:2" rendition="simple:additions"/>
+            <head>A True and VVonderful Relation of the Dreadful Fighting that was ſeen in the Ayr, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <hi>THe ſtrangeneſs of my</hi> ſtory <hi>might indeed chal<g ref="char:EOLhyphen"/>lenge an Apology to introduce the Reader to a belief, eſpecially in ſuch a time as this, when 'tis free for every</hi> Hackney Writer, <hi>to croud into the</hi> Preſs, <hi>and therefore I cannot expect to be</hi> Credited <hi>till it comes from better hands then mine.</hi>
+            </p>
+            <p>
+               <hi>On the</hi> 20th. <hi>of this Month, I had a Letter from an intimate Friend of mine in</hi> Wales, <hi>(a Perſon of ſuch</hi> Repute <hi>and</hi> Reputation, <hi>that nothing yet ever came from him, which cou'd by the moſt cenſorious be thought leſs than</hi> becomeing <hi>a Gentleman,) which</hi> Letter <hi>brought me this aſtonIſhing News,</hi> as followeth.</p>
+            <pb n="2" facs="tcp:35306:3"/>
+            <p>THat on the 15th. Day of <hi>January,</hi> about Five at Night, Mr. <hi>Lewys</hi> a Gentleman living near <hi>Carmarthen</hi> in <hi>South-Wales,</hi> comming home heard an unuſual noiſe, ſometimes of Drumms, then Guns, intermixt with doleful crys as of Men put upon the Rack, or uſed with ſome ſuch ſevere torment: You may imagine this kind of ſurprize diſ<g ref="char:EOLhyphen"/>compos'd him extreamly, and put him out of his way, and his reaſon directed him but little; but he examining round about with his eyes, where he thought there was a probability of finding it out, cou'd not at all ſatisfie himſelf with the reaſon of the thing, or where it was, ſo fear kindling a zeal in the Gen<g ref="char:EOLhyphen"/>tleman, he fell on his knees to Prayers, and turning up his Eyes to Heaven, ſaw moſt dreadful Apparitions in the
+<pb n="3" facs="tcp:35306:3"/>Ayr, thus pauſing a little he made ſhift to get home (which was not far off) and ſignified to his Family, what 'twas that diſcompos'd him ſo; they all then ſaw the Viſions, as they have teſtifi'd ſince; Armies fighting, Groans and Cryes heard, among which they took notice of this, <hi>Oh my Son is</hi> kill'd, kill'd, kill'd! another, <hi>I am glad I have took</hi> my <hi>Brother Captive;</hi> ſo hot the Battel ſeem'd to be, that the whole Ayr looked thick as it were with a bloody ſmoak; after this the Drums and Trumpets ſounded and put an Interval to their ſo hot ſervice; then the Ayr cleared up extreamly, not but that the Armies were plainly ſeen ſtill, one retir'd toward the North, and the other Southward, but withal Guns were diſcerned to be Diſcharged from each ſide.</p>
+            <pb n="4" facs="tcp:35306:4"/>
+            <p>Thus after about the ſpace of half an hour, the Heaven ſeem'd to open, and immediately follow'd ſuch a Clap. of Thunder, as if it had ſtruck at the diſſo<g ref="char:EOLhyphen"/>lution of Natures frame, the Armies then rallied up again, and the <hi>Pike</hi> men were plainly diſcern'd from them that had Muskets; they fell to't hotter ('twas judg'd) then before, and greater deſtru<g ref="char:EOLhyphen"/>ction was made, ſuch were the ſparkles that came from their clattering Swords, that you would have thought Heaven had a new ſupply of Stars.</p>
+            <p>In the interim of this came up 2 armys of Horſemen, powd'ring, and they met with as great deſtruction as the former, then the noiſe of Men and Horſes were heard anew, ſometimes the Rider &amp; his Horſe came tumbling down, another's Arm dropt off, which ſo frighted the ſpectators, that they often ſhrunck their
+<pb n="5" facs="tcp:35306:4"/>heads for fear of the fall: In this ſort the War laſted till Nine, and then a kind of Fog roſe from the earth, and put an end to't, as 'twas ſuppoſed.</p>
+            <p>Here Mr. <hi>Lewys</hi> and his Family went into his houſe ill ſatisfied with their ſpe<g ref="char:EOLhyphen"/>ctacle; the next Day <hi>Carmarthen</hi> Rung with this unexpected News, ſurveying the Heaven with careful eyes, but about 5 a clock the whole Town obſerv'd this Mr. <hi>Lewys</hi>'s ſpectacle, and more too, for there appear'd 2 Fleets of Ships, <hi>one</hi> from the North, and 'tother from the South, which ſail'd up with ſuch ſpeed as if <hi>they</hi> had had the benefit of 2 winds to drive them; they ſoon met, and their ſalutation was in Cannon language: immediately the Main-maſt fell there, the Sails rent here, another Ship ſunk, another ſplit, now ſeveral Men were ſeen thrown o<g ref="char:EOLhyphen"/>verboard, and by and by half the ſhips
+<pb n="6" facs="tcp:35306:5"/>on fire; then the Heaven was ſeen to o<g ref="char:EOLhyphen"/>pen again, and a Thunderclap follow'd, ſo the Ayr clear'd, and the South Ships haſtened back, but the North purſued them, and were ſeen to bring back ſome of them (as 'twas judg'd) for Captives; ſo the North Fleet retired, and ſhouts were heard ſignifying triumph, and gi<g ref="char:EOLhyphen"/>ving glory to God; then another ſhout was heard above all the reſt, <hi>Babylon is fallen, and lies in Duſt;</hi> then followed a conſort of ſweet Muſick, and the Viſi<g ref="char:EOLhyphen"/>ons Vaniſht away.</p>
+            <p>
+               <hi>The Verity of this I do not at all doubt, (tho' the Reader may) becauſe I had it from ſuch perſons as I dare not ſuſpect, and the chief reaſon why I appeared in Print, is this, becauſe I had a mind it ſhould be known to the maturer Judgements of the Nations, that they may diſcuſs upon it, and if any ill is ſignified to us, we may all to prayers that God may avert is; but if good, we may return thanks to Providence for it.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
